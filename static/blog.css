@@ -63,6 +63,14 @@
     margin-right: 1rem;
 }
 
+/* Styles for single page */
+.article-content {
+    font-size: 1.25rem;
+}
+.empty-space {
+    height: 100px;
+    background-color: transparent;
+}
 @media only screen and (max-width: 768px) {
     .brand {
         text-align: center;
