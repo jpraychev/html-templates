@@ -71,6 +71,12 @@
     height: 100px;
     background-color: transparent;
 }
+
+.empty-space-50 {
+    height: 50px;
+    background-color: transparent;
+}
+
 @media only screen and (max-width: 768px) {
     .brand {
         text-align: center;
